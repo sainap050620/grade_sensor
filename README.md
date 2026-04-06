@@ -1,1 +1,1 @@
-# grade_sensor
+The grade_sensor function takes a sensor reading (numerical value) as input and classifies it into one of three categories: 'Danger', 'Medium', or 'Low'. It also includes a demonstration of how to use this function by collecting multiple readings and analyzing them.
